@@ -1,5 +1,5 @@
 class ProjectController < ActionController::Base
 	def index
-		render json: {messages: 'oke'}
+		render json: {messages: 'ok'}
 	end
 end
